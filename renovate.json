@@ -6,31 +6,31 @@
   "hostRules": [
     {
       "matchHost": "https://github.com/mrohlof-protofy/terraform-module",
-      "token": "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",
+      "token": "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",
       "hostType": "github"
     },
     {
       "matchHost": "https://api.github.com/mrohlof-protofy/terraform-module",
-      "token": "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",
+      "token": "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",
       "hostType": "github"
     },
     {
       "matchHost": "api.github.com/mrohlof-protofy/terraform-module",
-      "token": "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",
+      "token": "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",
       "hostType": "github"
     },
     {
       "matchHost": "git@github.com:mrohlof-protofy/terraform-module",
-      "token": "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",
+      "token": "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",
       "hostType": "github"
     },
     {
       "matchHost": "github.com/mrohlof-protofy/terraform-module",
-      "token": "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",
+      "token": "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",
       "hostType": "github"
     },
     {
-      "token": "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",
+      "token": "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",
       "hostType": "github"
     }
   ]
