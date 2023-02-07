@@ -6,22 +6,30 @@
   "hostRules": [
     {
       "matchHost": "https://github.com/mrohlof-protofy/terraform-module",
-      "token": "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",
+      "encrypted": {
+        "token": "wcFMA/xDdHCJBTolAQ/9HRNGnhQpNgzjDONdoKReFMsBSyqD7Io++ANmPe/NRbYuUK0kw6w6Fe/3X/o7laLC8Ph1YGe5nYTBxgpYqZo+/xJwzCSmR5HZBXZuNEyYUOXFv78FCKjLWCUPIt0qZeqqFVr/n+xVpIQqYUJHNudVjfTuwsUpyCvW5Mnscq9tfssncaqHWp1aeGvIbX0hBamI0lxJR23q0Yg3sqT9WQJUHi0uPrIaJgkBCHkyeboZ/gH0q/xmyG5mo0sC6MQd+fBdXX+2QX4DgBlT8q11Rf+DkIf9w0WWi7+VR/xgK9lj843JXAyJnl3gfby+fFeDqltmzJd6z9Surro+bE+t8ShlBVNfjbD9ImC6IVZ8KwgFjSD0rEzqZXIQbW5u2yixB/NdP2POgUEAnnJGtTX6oz4ebh4DF3fC9yBwu76snnSt3vRGAUHl0WKMeynAGCTCeg6T63ICQ3Ml8wygKB/Ezd4xmUMF788CISFQoZLBjS5Rr7lgxh7FmVaslZ51vJi0q9BqROHs7XxObTdqVDVka+3beLOi5xvXxsHt/jcHfYeVCIBYKCYk8ctGmn9wN2ocb4vgPrWnjfRKpCkMw+YkFDtrK0UFBq0jhy9ReoZA7WS3/bvNTi02KKo/mRUrG1gqaBysFcfXxcqtnGyoEGv+MBdUQinGR+Zz/S0uK/asvkdgiJHSwAMBa9zHatt77RqX/SBLHVYv89KdvzajRDBUDIFLAUUvGVwKgS9iGFrmkus5F9xBXce/ZoAFCyyzZnYOFNyYy9S1iXY3vUrPyXc+h9ikDyHhxRIJMutAncZA+X2Ee4Tm5DsxZ0IQJ4NztVbuh7AcP4IQgRfSV/aE929D0Vs6Vf0KeEO6kAGcftHDup1RWvdGF//St64J3NANj6Dldy0e7uY/G9Q95dYjaU7t1BTVSuey/NFD/4aiemhmjeXB8VLDtVzxO9Q"
+      },
       "hostType": "github"
     },
     {
       "matchHost": "https://api.github.com/mrohlof-protofy/terraform-module",
-      "token": "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",
+      "encrypted": {
+        "token": "wcFMA/xDdHCJBTolAQ/9HRNGnhQpNgzjDONdoKReFMsBSyqD7Io++ANmPe/NRbYuUK0kw6w6Fe/3X/o7laLC8Ph1YGe5nYTBxgpYqZo+/xJwzCSmR5HZBXZuNEyYUOXFv78FCKjLWCUPIt0qZeqqFVr/n+xVpIQqYUJHNudVjfTuwsUpyCvW5Mnscq9tfssncaqHWp1aeGvIbX0hBamI0lxJR23q0Yg3sqT9WQJUHi0uPrIaJgkBCHkyeboZ/gH0q/xmyG5mo0sC6MQd+fBdXX+2QX4DgBlT8q11Rf+DkIf9w0WWi7+VR/xgK9lj843JXAyJnl3gfby+fFeDqltmzJd6z9Surro+bE+t8ShlBVNfjbD9ImC6IVZ8KwgFjSD0rEzqZXIQbW5u2yixB/NdP2POgUEAnnJGtTX6oz4ebh4DF3fC9yBwu76snnSt3vRGAUHl0WKMeynAGCTCeg6T63ICQ3Ml8wygKB/Ezd4xmUMF788CISFQoZLBjS5Rr7lgxh7FmVaslZ51vJi0q9BqROHs7XxObTdqVDVka+3beLOi5xvXxsHt/jcHfYeVCIBYKCYk8ctGmn9wN2ocb4vgPrWnjfRKpCkMw+YkFDtrK0UFBq0jhy9ReoZA7WS3/bvNTi02KKo/mRUrG1gqaBysFcfXxcqtnGyoEGv+MBdUQinGR+Zz/S0uK/asvkdgiJHSwAMBa9zHatt77RqX/SBLHVYv89KdvzajRDBUDIFLAUUvGVwKgS9iGFrmkus5F9xBXce/ZoAFCyyzZnYOFNyYy9S1iXY3vUrPyXc+h9ikDyHhxRIJMutAncZA+X2Ee4Tm5DsxZ0IQJ4NztVbuh7AcP4IQgRfSV/aE929D0Vs6Vf0KeEO6kAGcftHDup1RWvdGF//St64J3NANj6Dldy0e7uY/G9Q95dYjaU7t1BTVSuey/NFD/4aiemhmjeXB8VLDtVzxO9Q"
+      },
       "hostType": "github"
     },
     {
       "matchHost": "api.github.com/mrohlof-protofy/terraform-module",
-      "token": "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",
+      "encrypted": {
+        "token": "wcFMA/xDdHCJBTolAQ/9HRNGnhQpNgzjDONdoKReFMsBSyqD7Io++ANmPe/NRbYuUK0kw6w6Fe/3X/o7laLC8Ph1YGe5nYTBxgpYqZo+/xJwzCSmR5HZBXZuNEyYUOXFv78FCKjLWCUPIt0qZeqqFVr/n+xVpIQqYUJHNudVjfTuwsUpyCvW5Mnscq9tfssncaqHWp1aeGvIbX0hBamI0lxJR23q0Yg3sqT9WQJUHi0uPrIaJgkBCHkyeboZ/gH0q/xmyG5mo0sC6MQd+fBdXX+2QX4DgBlT8q11Rf+DkIf9w0WWi7+VR/xgK9lj843JXAyJnl3gfby+fFeDqltmzJd6z9Surro+bE+t8ShlBVNfjbD9ImC6IVZ8KwgFjSD0rEzqZXIQbW5u2yixB/NdP2POgUEAnnJGtTX6oz4ebh4DF3fC9yBwu76snnSt3vRGAUHl0WKMeynAGCTCeg6T63ICQ3Ml8wygKB/Ezd4xmUMF788CISFQoZLBjS5Rr7lgxh7FmVaslZ51vJi0q9BqROHs7XxObTdqVDVka+3beLOi5xvXxsHt/jcHfYeVCIBYKCYk8ctGmn9wN2ocb4vgPrWnjfRKpCkMw+YkFDtrK0UFBq0jhy9ReoZA7WS3/bvNTi02KKo/mRUrG1gqaBysFcfXxcqtnGyoEGv+MBdUQinGR+Zz/S0uK/asvkdgiJHSwAMBa9zHatt77RqX/SBLHVYv89KdvzajRDBUDIFLAUUvGVwKgS9iGFrmkus5F9xBXce/ZoAFCyyzZnYOFNyYy9S1iXY3vUrPyXc+h9ikDyHhxRIJMutAncZA+X2Ee4Tm5DsxZ0IQJ4NztVbuh7AcP4IQgRfSV/aE929D0Vs6Vf0KeEO6kAGcftHDup1RWvdGF//St64J3NANj6Dldy0e7uY/G9Q95dYjaU7t1BTVSuey/NFD/4aiemhmjeXB8VLDtVzxO9Q"
+      },
       "hostType": "github"
     },
     {
       "matchHost": "git@github.com:mrohlof-protofy/terraform-module",
-      "token": "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",
+      "encrypted": {
+        "token": "wcFMA/xDdHCJBTolAQ/9HRNGnhQpNgzjDONdoKReFMsBSyqD7Io++ANmPe/NRbYuUK0kw6w6Fe/3X/o7laLC8Ph1YGe5nYTBxgpYqZo+/xJwzCSmR5HZBXZuNEyYUOXFv78FCKjLWCUPIt0qZeqqFVr/n+xVpIQqYUJHNudVjfTuwsUpyCvW5Mnscq9tfssncaqHWp1aeGvIbX0hBamI0lxJR23q0Yg3sqT9WQJUHi0uPrIaJgkBCHkyeboZ/gH0q/xmyG5mo0sC6MQd+fBdXX+2QX4DgBlT8q11Rf+DkIf9w0WWi7+VR/xgK9lj843JXAyJnl3gfby+fFeDqltmzJd6z9Surro+bE+t8ShlBVNfjbD9ImC6IVZ8KwgFjSD0rEzqZXIQbW5u2yixB/NdP2POgUEAnnJGtTX6oz4ebh4DF3fC9yBwu76snnSt3vRGAUHl0WKMeynAGCTCeg6T63ICQ3Ml8wygKB/Ezd4xmUMF788CISFQoZLBjS5Rr7lgxh7FmVaslZ51vJi0q9BqROHs7XxObTdqVDVka+3beLOi5xvXxsHt/jcHfYeVCIBYKCYk8ctGmn9wN2ocb4vgPrWnjfRKpCkMw+YkFDtrK0UFBq0jhy9ReoZA7WS3/bvNTi02KKo/mRUrG1gqaBysFcfXxcqtnGyoEGv+MBdUQinGR+Zz/S0uK/asvkdgiJHSwAMBa9zHatt77RqX/SBLHVYv89KdvzajRDBUDIFLAUUvGVwKgS9iGFrmkus5F9xBXce/ZoAFCyyzZnYOFNyYy9S1iXY3vUrPyXc+h9ikDyHhxRIJMutAncZA+X2Ee4Tm5DsxZ0IQJ4NztVbuh7AcP4IQgRfSV/aE929D0Vs6Vf0KeEO6kAGcftHDup1RWvdGF//St64J3NANj6Dldy0e7uY/G9Q95dYjaU7t1BTVSuey/NFD/4aiemhmjeXB8VLDtVzxO9Q"
+      },
       "hostType": "github"
     },
     {
@@ -30,7 +38,9 @@
       "hostType": "github"
     },
     {
-      "token": "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",
+      "encrypted": {
+        "token": "wcFMA/xDdHCJBTolAQ/9HRNGnhQpNgzjDONdoKReFMsBSyqD7Io++ANmPe/NRbYuUK0kw6w6Fe/3X/o7laLC8Ph1YGe5nYTBxgpYqZo+/xJwzCSmR5HZBXZuNEyYUOXFv78FCKjLWCUPIt0qZeqqFVr/n+xVpIQqYUJHNudVjfTuwsUpyCvW5Mnscq9tfssncaqHWp1aeGvIbX0hBamI0lxJR23q0Yg3sqT9WQJUHi0uPrIaJgkBCHkyeboZ/gH0q/xmyG5mo0sC6MQd+fBdXX+2QX4DgBlT8q11Rf+DkIf9w0WWi7+VR/xgK9lj843JXAyJnl3gfby+fFeDqltmzJd6z9Surro+bE+t8ShlBVNfjbD9ImC6IVZ8KwgFjSD0rEzqZXIQbW5u2yixB/NdP2POgUEAnnJGtTX6oz4ebh4DF3fC9yBwu76snnSt3vRGAUHl0WKMeynAGCTCeg6T63ICQ3Ml8wygKB/Ezd4xmUMF788CISFQoZLBjS5Rr7lgxh7FmVaslZ51vJi0q9BqROHs7XxObTdqVDVka+3beLOi5xvXxsHt/jcHfYeVCIBYKCYk8ctGmn9wN2ocb4vgPrWnjfRKpCkMw+YkFDtrK0UFBq0jhy9ReoZA7WS3/bvNTi02KKo/mRUrG1gqaBysFcfXxcqtnGyoEGv+MBdUQinGR+Zz/S0uK/asvkdgiJHSwAMBa9zHatt77RqX/SBLHVYv89KdvzajRDBUDIFLAUUvGVwKgS9iGFrmkus5F9xBXce/ZoAFCyyzZnYOFNyYy9S1iXY3vUrPyXc+h9ikDyHhxRIJMutAncZA+X2Ee4Tm5DsxZ0IQJ4NztVbuh7AcP4IQgRfSV/aE929D0Vs6Vf0KeEO6kAGcftHDup1RWvdGF//St64J3NANj6Dldy0e7uY/G9Q95dYjaU7t1BTVSuey/NFD/4aiemhmjeXB8VLDtVzxO9Q"
+      },
       "hostType": "github"
     }
   ]
