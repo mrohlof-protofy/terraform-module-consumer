@@ -9,3 +9,9 @@ module "by_version" {
   var1   = 3
   var2   = 3
 }
+
+module "github_no_prot" {
+  source = "github.com/mrohlof-protofy/terraform-module?ref=1.0.2"
+  var1   = 3
+  var2   = 3
+}
