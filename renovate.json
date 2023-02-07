@@ -2,5 +2,19 @@
   "prConcurrentLimit": 1,
   "extends": [
     "config:base", ":dependencyDashboard"
-  ] 
+  ],
+  "hostRules": [
+    {
+      "matchHost": "https://github.com/mrohlof-protofy/terraform-module",
+      "token": "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"  
+    },
+    {
+      "matchHost": "git@github.com:mrohlof-protofy/terraform-module",
+      "token": "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"  
+    },
+    {
+      "matchHost": "github.com/mrohlof-protofy/terraform-module",
+      "token": "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"  
+    },
+  ]
 }
