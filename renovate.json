@@ -19,6 +19,20 @@
       "hostType": "github"
     },
     {
+      "matchHost": "https://api.github.com",
+      "encrypted": {
+        "token": "wcFMA/xDdHCJBTolAQ//Q0oOwYNAAJVX32MMTnvUgENtp11WkzbQV/S7LUZq9U7818OPudur4kS3d7qgpCHpUUGu+EOboQmrC8JdlYnWjDdNq6EM1XZSxKMVkokjVOjXmFWli/1z5CWBtg9sKKpuKNgGW1r5FxQxV6mlDfOCMtpmDoErj5gHL0kSNb7CnS+r0AoG7iMAp4Xrz1BDomzdKM1BhoywFy6kejGBJHozxJeHrIm0kAu8o/WWjIdmYSoa6w+7urXL9y9c2/NoxMrX3wfxJKAbMI2dWHzTCao0yr4b6wpqkEJoc6xLywucWWcSPeI3+CTSarZnwe9tHGdi7AFuAoSNWqxGsnEvmfN8ebGl/zsMQT9FTIql+73KSp/MZp5dmPWPjFTl4DovbQ03ux4Sly/3ibF/204XfnNLA9fpje7bDqiUZzrXM6u6RnLx+GhAncbHrm2rtf5ZKBVwco4u9S4NDHaPC4HhpTHJcjgZ+I5fnsfvn7mYOsPcp4pco02MJcrIziiqhrgwFLyWMGjSZZpKJEpuEFDQc7M3V24rCCldVrCZSEBmAVFy7lRTKSE/QbN3s0janxDsB2eDKckSzWTvFUvLJqcVodTc8at5AbIo9Ro/x9dLweRBYVAbEoRYtwxkOQPI39AlYjfibYSGO2gNHLKu6jOzdgjg0hZO8ma4WXGN3n74Oyi52hjSjgFT0T03AETfMRfmrrI76phhODvdrJqW+uvkjKXPwJIwr5Hb28p4SUeMwIE+YGdIkygfWxs0zm055oS4d2Y/qFa1lfv2atGE3zdXnWSyiqF71yyA9HXtGxuSukIfPc05z7VfSSUpLW72m1fNoBc5fxGfSsL0QPq/iegEchQ9yya8dD1pc8TKC4l0rHsTtkQ"
+      },
+      "hostType": "github"
+    },
+    {
+      "matchHost": "api.github.com",
+      "encrypted": {
+        "token": "wcFMA/xDdHCJBTolAQ//Q0oOwYNAAJVX32MMTnvUgENtp11WkzbQV/S7LUZq9U7818OPudur4kS3d7qgpCHpUUGu+EOboQmrC8JdlYnWjDdNq6EM1XZSxKMVkokjVOjXmFWli/1z5CWBtg9sKKpuKNgGW1r5FxQxV6mlDfOCMtpmDoErj5gHL0kSNb7CnS+r0AoG7iMAp4Xrz1BDomzdKM1BhoywFy6kejGBJHozxJeHrIm0kAu8o/WWjIdmYSoa6w+7urXL9y9c2/NoxMrX3wfxJKAbMI2dWHzTCao0yr4b6wpqkEJoc6xLywucWWcSPeI3+CTSarZnwe9tHGdi7AFuAoSNWqxGsnEvmfN8ebGl/zsMQT9FTIql+73KSp/MZp5dmPWPjFTl4DovbQ03ux4Sly/3ibF/204XfnNLA9fpje7bDqiUZzrXM6u6RnLx+GhAncbHrm2rtf5ZKBVwco4u9S4NDHaPC4HhpTHJcjgZ+I5fnsfvn7mYOsPcp4pco02MJcrIziiqhrgwFLyWMGjSZZpKJEpuEFDQc7M3V24rCCldVrCZSEBmAVFy7lRTKSE/QbN3s0janxDsB2eDKckSzWTvFUvLJqcVodTc8at5AbIo9Ro/x9dLweRBYVAbEoRYtwxkOQPI39AlYjfibYSGO2gNHLKu6jOzdgjg0hZO8ma4WXGN3n74Oyi52hjSjgFT0T03AETfMRfmrrI76phhODvdrJqW+uvkjKXPwJIwr5Hb28p4SUeMwIE+YGdIkygfWxs0zm055oS4d2Y/qFa1lfv2atGE3zdXnWSyiqF71yyA9HXtGxuSukIfPc05z7VfSSUpLW72m1fNoBc5fxGfSsL0QPq/iegEchQ9yya8dD1pc8TKC4l0rHsTtkQ"
+      },
+      "hostType": "github"
+    },
+    {
       "matchHost": "api.github.com/mrohlof-protofy/terraform-module",
       "encrypted": {
         "token": "wcFMA/xDdHCJBTolAQ//Q0oOwYNAAJVX32MMTnvUgENtp11WkzbQV/S7LUZq9U7818OPudur4kS3d7qgpCHpUUGu+EOboQmrC8JdlYnWjDdNq6EM1XZSxKMVkokjVOjXmFWli/1z5CWBtg9sKKpuKNgGW1r5FxQxV6mlDfOCMtpmDoErj5gHL0kSNb7CnS+r0AoG7iMAp4Xrz1BDomzdKM1BhoywFy6kejGBJHozxJeHrIm0kAu8o/WWjIdmYSoa6w+7urXL9y9c2/NoxMrX3wfxJKAbMI2dWHzTCao0yr4b6wpqkEJoc6xLywucWWcSPeI3+CTSarZnwe9tHGdi7AFuAoSNWqxGsnEvmfN8ebGl/zsMQT9FTIql+73KSp/MZp5dmPWPjFTl4DovbQ03ux4Sly/3ibF/204XfnNLA9fpje7bDqiUZzrXM6u6RnLx+GhAncbHrm2rtf5ZKBVwco4u9S4NDHaPC4HhpTHJcjgZ+I5fnsfvn7mYOsPcp4pco02MJcrIziiqhrgwFLyWMGjSZZpKJEpuEFDQc7M3V24rCCldVrCZSEBmAVFy7lRTKSE/QbN3s0janxDsB2eDKckSzWTvFUvLJqcVodTc8at5AbIo9Ro/x9dLweRBYVAbEoRYtwxkOQPI39AlYjfibYSGO2gNHLKu6jOzdgjg0hZO8ma4WXGN3n74Oyi52hjSjgFT0T03AETfMRfmrrI76phhODvdrJqW+uvkjKXPwJIwr5Hb28p4SUeMwIE+YGdIkygfWxs0zm055oS4d2Y/qFa1lfv2atGE3zdXnWSyiqF71yyA9HXtGxuSukIfPc05z7VfSSUpLW72m1fNoBc5fxGfSsL0QPq/iegEchQ9yya8dD1pc8TKC4l0rHsTtkQ"
