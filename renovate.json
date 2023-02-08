@@ -5,7 +5,7 @@
   ],
   "onboarding": false,
   "platform": "github",
-  "repositories": ["mrohlof-profoty/terraform-module-consumer"],
+  "repositories": ["mrohlof-protofy/terraform-module-consumer"],
   "hostRules": [
     {
       "matchHost": "https://github.com/mrohlof-protofy/terraform-module",
