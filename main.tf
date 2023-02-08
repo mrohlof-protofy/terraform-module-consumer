@@ -1,17 +1,17 @@
 module "by_tag" {
-  source = "git@github.com:mrohlof-protofy/terraform-module?ref=1.0.4"
+  source = "git@github.com:mrohlof-protofy/terraform-module?ref=1.0.6"
   var1   = 3
   var2   = 3
 }
 
 module "by_version" {
-  source = "git@github.com:mrohlof-protofy/terraform-module?ref=1.0.4"
+  source = "git@github.com:mrohlof-protofy/terraform-module?ref=1.0.6"
   var1   = 3
   var2   = 3
 }
 
 module "github_no_prot" {
-  source = "github.com/mrohlof-protofy/terraform-module?ref=1.0.4"
+  source = "github.com/mrohlof-protofy/terraform-module?ref=1.0.6"
   var1   = 3
   var2   = 3
 }
