@@ -5,55 +5,5 @@
   ],
   "onboarding": false,
   "platform": "github",
-  "repositories": ["mrohlof-protofy/terraform-module-consumer"],
-  "hostRules": [
-    {
-      "matchHost": "https://github.com/mrohlof-protofy/terraform-module",
-      "encrypted": {
-        "token": "wcFMA/xDdHCJBTolARAAlPlKZ1oYKqEDxX8RUSDeysowsrs1wwZr6bVVgg5DTr121LrULlX22N1EKWVdxxIr5JieEe7TqBlWQY67dddTQq8ikP1H0mg0Mw/CSLclAf/V+jmKjEbI33ABf7BcNJf+MiP1nJeRNFOTboslS1L5rYkIgK4cv32n8ahM2mlPj52yxy9Cm+YT5F8LB3dYzON2IX5F4ROz/sROK5vAdZv6qapfXHfHK1dyIFK+wykBj3HFts6DHsFWUmnSMg2ziMU86YtsxUZmgvdsaRlgpBiRUuY88kRIt2dt/d+cYskXmmAIrwhP5ZvB2ukSS3BaJeGsetLuRRu/e3Wl1B7rsaHSsVLeafNl53bpoPjz7avYlZQSChtEmlET64x4LbKg3MmqAoUeJcCwxbXgwKnUc25i/ZdM71LzB1NuVGXWlsiAJUfb5++IPfv0ZQe57GxcCKwFc0X29C4++7Sent6apnkHnhs1BIRhwaCTTO67Y/f6jxIZatf7vjpNu5qehaa9EFZHDTQ2WTVrqSeWhAEC4AI4yiUHeScVhXq9/io6dMn7h7yQfbMefGWX5LEg7H1Y4LWL9Ta2+F7iqx3X+v2mzXYbGH5M/zJnCB23n/+KKAGkwXuG51CawKWLhHInrOK4oi39jxiAD1HrpwN89asD06+oLTlTBm2Bp9lhN/C9JRHAgvTSfgEkvLGDFGFgjzxG6hbw98rsA5GwE1cMNKwIPQ83S2p/5Yh71MDLL/EuyDeg4KLVZhRrz9HAqP+vgYAOGlBj6X9ezFGXoqd3B6aWhkvMOySZoV4EAo9rWuLB4TjpuQb7RE2z2c7fEr6kApB4N7Rjvk3qpJy3ZqKcP1ptrc3sMg"
-      }
-    },
-    {
-      "matchHost": "https://api.github.com/mrohlof-protofy/terraform-module",
-      "encrypted": {
-        "token": "wcFMA/xDdHCJBTolARAAlPlKZ1oYKqEDxX8RUSDeysowsrs1wwZr6bVVgg5DTr121LrULlX22N1EKWVdxxIr5JieEe7TqBlWQY67dddTQq8ikP1H0mg0Mw/CSLclAf/V+jmKjEbI33ABf7BcNJf+MiP1nJeRNFOTboslS1L5rYkIgK4cv32n8ahM2mlPj52yxy9Cm+YT5F8LB3dYzON2IX5F4ROz/sROK5vAdZv6qapfXHfHK1dyIFK+wykBj3HFts6DHsFWUmnSMg2ziMU86YtsxUZmgvdsaRlgpBiRUuY88kRIt2dt/d+cYskXmmAIrwhP5ZvB2ukSS3BaJeGsetLuRRu/e3Wl1B7rsaHSsVLeafNl53bpoPjz7avYlZQSChtEmlET64x4LbKg3MmqAoUeJcCwxbXgwKnUc25i/ZdM71LzB1NuVGXWlsiAJUfb5++IPfv0ZQe57GxcCKwFc0X29C4++7Sent6apnkHnhs1BIRhwaCTTO67Y/f6jxIZatf7vjpNu5qehaa9EFZHDTQ2WTVrqSeWhAEC4AI4yiUHeScVhXq9/io6dMn7h7yQfbMefGWX5LEg7H1Y4LWL9Ta2+F7iqx3X+v2mzXYbGH5M/zJnCB23n/+KKAGkwXuG51CawKWLhHInrOK4oi39jxiAD1HrpwN89asD06+oLTlTBm2Bp9lhN/C9JRHAgvTSfgEkvLGDFGFgjzxG6hbw98rsA5GwE1cMNKwIPQ83S2p/5Yh71MDLL/EuyDeg4KLVZhRrz9HAqP+vgYAOGlBj6X9ezFGXoqd3B6aWhkvMOySZoV4EAo9rWuLB4TjpuQb7RE2z2c7fEr6kApB4N7Rjvk3qpJy3ZqKcP1ptrc3sMg"
-      }
-    },
-    {
-      "matchHost": "https://api.github.com",
-      "encrypted": {
-        "token": "wcFMA/xDdHCJBTolARAAlPlKZ1oYKqEDxX8RUSDeysowsrs1wwZr6bVVgg5DTr121LrULlX22N1EKWVdxxIr5JieEe7TqBlWQY67dddTQq8ikP1H0mg0Mw/CSLclAf/V+jmKjEbI33ABf7BcNJf+MiP1nJeRNFOTboslS1L5rYkIgK4cv32n8ahM2mlPj52yxy9Cm+YT5F8LB3dYzON2IX5F4ROz/sROK5vAdZv6qapfXHfHK1dyIFK+wykBj3HFts6DHsFWUmnSMg2ziMU86YtsxUZmgvdsaRlgpBiRUuY88kRIt2dt/d+cYskXmmAIrwhP5ZvB2ukSS3BaJeGsetLuRRu/e3Wl1B7rsaHSsVLeafNl53bpoPjz7avYlZQSChtEmlET64x4LbKg3MmqAoUeJcCwxbXgwKnUc25i/ZdM71LzB1NuVGXWlsiAJUfb5++IPfv0ZQe57GxcCKwFc0X29C4++7Sent6apnkHnhs1BIRhwaCTTO67Y/f6jxIZatf7vjpNu5qehaa9EFZHDTQ2WTVrqSeWhAEC4AI4yiUHeScVhXq9/io6dMn7h7yQfbMefGWX5LEg7H1Y4LWL9Ta2+F7iqx3X+v2mzXYbGH5M/zJnCB23n/+KKAGkwXuG51CawKWLhHInrOK4oi39jxiAD1HrpwN89asD06+oLTlTBm2Bp9lhN/C9JRHAgvTSfgEkvLGDFGFgjzxG6hbw98rsA5GwE1cMNKwIPQ83S2p/5Yh71MDLL/EuyDeg4KLVZhRrz9HAqP+vgYAOGlBj6X9ezFGXoqd3B6aWhkvMOySZoV4EAo9rWuLB4TjpuQb7RE2z2c7fEr6kApB4N7Rjvk3qpJy3ZqKcP1ptrc3sMg"
-      }
-    },
-    {
-      "matchHost": "api.github.com",
-      "encrypted": {
-        "token": "wcFMA/xDdHCJBTolARAAlPlKZ1oYKqEDxX8RUSDeysowsrs1wwZr6bVVgg5DTr121LrULlX22N1EKWVdxxIr5JieEe7TqBlWQY67dddTQq8ikP1H0mg0Mw/CSLclAf/V+jmKjEbI33ABf7BcNJf+MiP1nJeRNFOTboslS1L5rYkIgK4cv32n8ahM2mlPj52yxy9Cm+YT5F8LB3dYzON2IX5F4ROz/sROK5vAdZv6qapfXHfHK1dyIFK+wykBj3HFts6DHsFWUmnSMg2ziMU86YtsxUZmgvdsaRlgpBiRUuY88kRIt2dt/d+cYskXmmAIrwhP5ZvB2ukSS3BaJeGsetLuRRu/e3Wl1B7rsaHSsVLeafNl53bpoPjz7avYlZQSChtEmlET64x4LbKg3MmqAoUeJcCwxbXgwKnUc25i/ZdM71LzB1NuVGXWlsiAJUfb5++IPfv0ZQe57GxcCKwFc0X29C4++7Sent6apnkHnhs1BIRhwaCTTO67Y/f6jxIZatf7vjpNu5qehaa9EFZHDTQ2WTVrqSeWhAEC4AI4yiUHeScVhXq9/io6dMn7h7yQfbMefGWX5LEg7H1Y4LWL9Ta2+F7iqx3X+v2mzXYbGH5M/zJnCB23n/+KKAGkwXuG51CawKWLhHInrOK4oi39jxiAD1HrpwN89asD06+oLTlTBm2Bp9lhN/C9JRHAgvTSfgEkvLGDFGFgjzxG6hbw98rsA5GwE1cMNKwIPQ83S2p/5Yh71MDLL/EuyDeg4KLVZhRrz9HAqP+vgYAOGlBj6X9ezFGXoqd3B6aWhkvMOySZoV4EAo9rWuLB4TjpuQb7RE2z2c7fEr6kApB4N7Rjvk3qpJy3ZqKcP1ptrc3sMg"
-      }
-    },
-    {
-      "matchHost": "api.github.com/mrohlof-protofy/terraform-module",
-      "encrypted": {
-        "token": "wcFMA/xDdHCJBTolARAAlPlKZ1oYKqEDxX8RUSDeysowsrs1wwZr6bVVgg5DTr121LrULlX22N1EKWVdxxIr5JieEe7TqBlWQY67dddTQq8ikP1H0mg0Mw/CSLclAf/V+jmKjEbI33ABf7BcNJf+MiP1nJeRNFOTboslS1L5rYkIgK4cv32n8ahM2mlPj52yxy9Cm+YT5F8LB3dYzON2IX5F4ROz/sROK5vAdZv6qapfXHfHK1dyIFK+wykBj3HFts6DHsFWUmnSMg2ziMU86YtsxUZmgvdsaRlgpBiRUuY88kRIt2dt/d+cYskXmmAIrwhP5ZvB2ukSS3BaJeGsetLuRRu/e3Wl1B7rsaHSsVLeafNl53bpoPjz7avYlZQSChtEmlET64x4LbKg3MmqAoUeJcCwxbXgwKnUc25i/ZdM71LzB1NuVGXWlsiAJUfb5++IPfv0ZQe57GxcCKwFc0X29C4++7Sent6apnkHnhs1BIRhwaCTTO67Y/f6jxIZatf7vjpNu5qehaa9EFZHDTQ2WTVrqSeWhAEC4AI4yiUHeScVhXq9/io6dMn7h7yQfbMefGWX5LEg7H1Y4LWL9Ta2+F7iqx3X+v2mzXYbGH5M/zJnCB23n/+KKAGkwXuG51CawKWLhHInrOK4oi39jxiAD1HrpwN89asD06+oLTlTBm2Bp9lhN/C9JRHAgvTSfgEkvLGDFGFgjzxG6hbw98rsA5GwE1cMNKwIPQ83S2p/5Yh71MDLL/EuyDeg4KLVZhRrz9HAqP+vgYAOGlBj6X9ezFGXoqd3B6aWhkvMOySZoV4EAo9rWuLB4TjpuQb7RE2z2c7fEr6kApB4N7Rjvk3qpJy3ZqKcP1ptrc3sMg"
-      },
-      "hostType": "github"
-    },
-    {
-      "matchHost": "git@github.com:mrohlof-protofy/terraform-module",
-      "encrypted": {
-      "token": "wcFMA/xDdHCJBTolARAAlPlKZ1oYKqEDxX8RUSDeysowsrs1wwZr6bVVgg5DTr121LrULlX22N1EKWVdxxIr5JieEe7TqBlWQY67dddTQq8ikP1H0mg0Mw/CSLclAf/V+jmKjEbI33ABf7BcNJf+MiP1nJeRNFOTboslS1L5rYkIgK4cv32n8ahM2mlPj52yxy9Cm+YT5F8LB3dYzON2IX5F4ROz/sROK5vAdZv6qapfXHfHK1dyIFK+wykBj3HFts6DHsFWUmnSMg2ziMU86YtsxUZmgvdsaRlgpBiRUuY88kRIt2dt/d+cYskXmmAIrwhP5ZvB2ukSS3BaJeGsetLuRRu/e3Wl1B7rsaHSsVLeafNl53bpoPjz7avYlZQSChtEmlET64x4LbKg3MmqAoUeJcCwxbXgwKnUc25i/ZdM71LzB1NuVGXWlsiAJUfb5++IPfv0ZQe57GxcCKwFc0X29C4++7Sent6apnkHnhs1BIRhwaCTTO67Y/f6jxIZatf7vjpNu5qehaa9EFZHDTQ2WTVrqSeWhAEC4AI4yiUHeScVhXq9/io6dMn7h7yQfbMefGWX5LEg7H1Y4LWL9Ta2+F7iqx3X+v2mzXYbGH5M/zJnCB23n/+KKAGkwXuG51CawKWLhHInrOK4oi39jxiAD1HrpwN89asD06+oLTlTBm2Bp9lhN/C9JRHAgvTSfgEkvLGDFGFgjzxG6hbw98rsA5GwE1cMNKwIPQ83S2p/5Yh71MDLL/EuyDeg4KLVZhRrz9HAqP+vgYAOGlBj6X9ezFGXoqd3B6aWhkvMOySZoV4EAo9rWuLB4TjpuQb7RE2z2c7fEr6kApB4N7Rjvk3qpJy3ZqKcP1ptrc3sMg"
-      }
-    },
-    {
-      "matchHost": "github.com/mrohlof-protofy/terraform-module",
-      "encrypted": {
-        "token": "wcFMA/xDdHCJBTolARAAlPlKZ1oYKqEDxX8RUSDeysowsrs1wwZr6bVVgg5DTr121LrULlX22N1EKWVdxxIr5JieEe7TqBlWQY67dddTQq8ikP1H0mg0Mw/CSLclAf/V+jmKjEbI33ABf7BcNJf+MiP1nJeRNFOTboslS1L5rYkIgK4cv32n8ahM2mlPj52yxy9Cm+YT5F8LB3dYzON2IX5F4ROz/sROK5vAdZv6qapfXHfHK1dyIFK+wykBj3HFts6DHsFWUmnSMg2ziMU86YtsxUZmgvdsaRlgpBiRUuY88kRIt2dt/d+cYskXmmAIrwhP5ZvB2ukSS3BaJeGsetLuRRu/e3Wl1B7rsaHSsVLeafNl53bpoPjz7avYlZQSChtEmlET64x4LbKg3MmqAoUeJcCwxbXgwKnUc25i/ZdM71LzB1NuVGXWlsiAJUfb5++IPfv0ZQe57GxcCKwFc0X29C4++7Sent6apnkHnhs1BIRhwaCTTO67Y/f6jxIZatf7vjpNu5qehaa9EFZHDTQ2WTVrqSeWhAEC4AI4yiUHeScVhXq9/io6dMn7h7yQfbMefGWX5LEg7H1Y4LWL9Ta2+F7iqx3X+v2mzXYbGH5M/zJnCB23n/+KKAGkwXuG51CawKWLhHInrOK4oi39jxiAD1HrpwN89asD06+oLTlTBm2Bp9lhN/C9JRHAgvTSfgEkvLGDFGFgjzxG6hbw98rsA5GwE1cMNKwIPQ83S2p/5Yh71MDLL/EuyDeg4KLVZhRrz9HAqP+vgYAOGlBj6X9ezFGXoqd3B6aWhkvMOySZoV4EAo9rWuLB4TjpuQb7RE2z2c7fEr6kApB4N7Rjvk3qpJy3ZqKcP1ptrc3sMg"
-      }
-    },
-    {
-      "encrypted": {
-        "token": "wcFMA/xDdHCJBTolARAAlPlKZ1oYKqEDxX8RUSDeysowsrs1wwZr6bVVgg5DTr121LrULlX22N1EKWVdxxIr5JieEe7TqBlWQY67dddTQq8ikP1H0mg0Mw/CSLclAf/V+jmKjEbI33ABf7BcNJf+MiP1nJeRNFOTboslS1L5rYkIgK4cv32n8ahM2mlPj52yxy9Cm+YT5F8LB3dYzON2IX5F4ROz/sROK5vAdZv6qapfXHfHK1dyIFK+wykBj3HFts6DHsFWUmnSMg2ziMU86YtsxUZmgvdsaRlgpBiRUuY88kRIt2dt/d+cYskXmmAIrwhP5ZvB2ukSS3BaJeGsetLuRRu/e3Wl1B7rsaHSsVLeafNl53bpoPjz7avYlZQSChtEmlET64x4LbKg3MmqAoUeJcCwxbXgwKnUc25i/ZdM71LzB1NuVGXWlsiAJUfb5++IPfv0ZQe57GxcCKwFc0X29C4++7Sent6apnkHnhs1BIRhwaCTTO67Y/f6jxIZatf7vjpNu5qehaa9EFZHDTQ2WTVrqSeWhAEC4AI4yiUHeScVhXq9/io6dMn7h7yQfbMefGWX5LEg7H1Y4LWL9Ta2+F7iqx3X+v2mzXYbGH5M/zJnCB23n/+KKAGkwXuG51CawKWLhHInrOK4oi39jxiAD1HrpwN89asD06+oLTlTBm2Bp9lhN/C9JRHAgvTSfgEkvLGDFGFgjzxG6hbw98rsA5GwE1cMNKwIPQ83S2p/5Yh71MDLL/EuyDeg4KLVZhRrz9HAqP+vgYAOGlBj6X9ezFGXoqd3B6aWhkvMOySZoV4EAo9rWuLB4TjpuQb7RE2z2c7fEr6kApB4N7Rjvk3qpJy3ZqKcP1ptrc3sMg"
-      }
-    }
-  ]
+  "repositories": ["mrohlof-protofy/terraform-module-consumer"]
 }
