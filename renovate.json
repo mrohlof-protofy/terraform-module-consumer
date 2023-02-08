@@ -3,6 +3,9 @@
   "extends": [
     "config:base", ":dependencyDashboard"
   ],
+  "onboarding": false,
+  "platform": "github",
+  "repositories": ["terraform-module-consumer"],
   "hostRules": [
     {
       "matchHost": "https://github.com/mrohlof-protofy/terraform-module",
